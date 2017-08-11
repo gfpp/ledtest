@@ -1,0 +1,34 @@
+---
+:source:
+  :path: test
+  :file: test_leds.c
+:successes:
+- :test: test_LedsOffAfterCreate
+  :line: 16
+  :message: ''
+- :test: test_LedOn
+  :line: 24
+  :message: ''
+- :test: test_LedOff
+  :line: 30
+  :message: ''
+- :test: testLedsOn
+  :line: 36
+  :message: ''
+- :test: testLedsOff
+  :line: 44
+  :message: ''
+- :test: test_LedOnAll
+  :line: 52
+  :message: ''
+- :test: test_LedOffAll
+  :line: 59
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 7
+  :passed: 7
+  :failed: 0
+  :ignored: 0
+:stdout: []
